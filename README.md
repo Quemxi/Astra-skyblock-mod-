@@ -1,2 +1,4 @@
-# Astra-skyblock-mod-
-This is my first time trying to launch my mod for hypixel skyblock providing QOL for skyblock with performance stats and cosmetics
+# SkyHud
+
+Clean, read-only FPS / Ping / TPS / SkyBlock info overlay for Minecraft 26.1.2 (Fabric).
+Settings: config/skyhud.properties
